@@ -1,6 +1,7 @@
 
 ### Olá! Eu sou o Enzo Grigol Martins 👋
 
+
 acesse minhas redes abaixo </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-grigol-martins-20979b246/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo_grigol_/)
@@ -15,3 +16,8 @@ acesse minhas redes abaixo </br>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+# Sobre mim
+
+Sou gaúcho, moro em Porto Alegre - RS, tenho 18 anos. Estou no segundo semestre de Analise e Desenvolvimento de Sistemas. 
+Gosto de games, música e amo programação, Atualmente atuo como Desenvolvedor Front-End.
