@@ -19,5 +19,5 @@ acesse minhas redes abaixo </br>
 
 # Sobre mim
 
-Sou gaúcho, moro em Porto Alegre - RS, tenho 19 anos. Estou no terceiro semestre de Analise e Desenvolvimento de Sistemas. 
+Sou gaúcho, moro em Porto Alegre - RS, tenho 20 anos. Estou no quarto semestre de Analise e Desenvolvimento de Sistemas. 
 Gosto de games, música e amo programação, Atualmente atuo como Desenvolvedor Back-End e Analista de dados.
